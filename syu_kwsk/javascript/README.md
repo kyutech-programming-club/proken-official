@@ -1,2 +1,0 @@
-# JavaScript
-JavaScriptの練習
