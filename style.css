@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+html, body, div, tr, th, td, h1, h2, h3, p, a, center, table{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+body{line-height: 1;}
+table{
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+body{
+  font: 14px "ヒラギノ明朝　pro W3","Hiragino Mincho Pro"
+}
+
+.216{
+
+}
+
+.menu{
+  background-color: black;
+}
+
+.overview{
+  background-color: green;
+
+}
+
+.today{
+  background-color: red;
+  width:200px;
+
+}
+
+.callender{
+  background-color: blue;
+  width:700px;
+}
