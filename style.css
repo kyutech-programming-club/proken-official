@@ -20,6 +20,13 @@ body{
   font: 14px "ヒラギノ明朝　pro W3","Hiragino Mincho Pro"
 }
 
+.wrapper{
+        width:1000px;
+        padding;30px;
+        margin: 0 auto;
+        overflow: hidden
+    }
+
 .216{
 
 }
@@ -35,11 +42,13 @@ body{
 
 .today{
   background-color: red;
-  width:200px;
+  width:300px;
+  float: left;
 
 }
 
 .callender{
-  background-color: blue;
-  width:700px;
+  background-color: pink;
+  width:600px;
+  float: right
 }
