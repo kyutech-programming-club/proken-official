@@ -1,54 +1,17 @@
-@charset "UTF-8";
-
-html, body, div, tr, th, td, h1, h2, h3, p, a, center, table{
-    margin: 0;
-    padding: 0;
-    border: 0;
-    outline: 0;
-    font: inherit;
-    font-size: 100%;
-    vertical-align: baseline;
+.hd_im{
+  max-width: 100%;
+  height: auto;
 }
 
-body{line-height: 1;}
-table{
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
-body{
-  font: 14px "ヒラギノ明朝　pro W3","Hiragino Mincho Pro"
-}
-
-.wrapper{
-        width:1000px;
-        padding;30px;
-        margin: 0 auto;
-        overflow: hidden
-    }
-
-.216{
-
-}
-
-.menu{
-  background-color: black;
+.me_tb{
+  text-align: center;
 }
 
 .overview{
-  background-color: green;
-
+  text-align: center;
 }
 
-.today{
-  background-color: red;
-  width:300px;
-  float: left;
-
-}
-
-.callender{
-  background-color: pink;
-  width:600px;
-  float: right
+.home_icon{
+  width: 100%;
+  height: auto;
 }
