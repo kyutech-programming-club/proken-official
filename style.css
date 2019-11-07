@@ -15,3 +15,26 @@
   width: 100%;
   height: auto;
 }
+
+/*Start Side Bar*/
+.sub-title{
+  font-size: 1.375rem;
+  padding: 0 8px 8px;
+  border-bottom: 2px #0bd solid;
+  font-weight: normal;
+}
+.sub-menu{
+  margin-bottom: 60px;
+  list-style: none;
+}
+.sub-menu{
+  border-bottom: 1px #ddd solid;
+}
+.sub-menu a{
+  color: #432;
+  padding: 10px;
+  display: block;
+}
+.sub-menu a:hover{
+  color: #0bd;
+}
