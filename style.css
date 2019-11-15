@@ -9,9 +9,25 @@
 
 .overview{
   text-align: center;
+  background-color: #CCFFFF;
 }
 
 .home_icon{
   width: 100%;
   height: auto;
+}
+
+.tp_tb{
+  background-color: #EEFFFF;
+  border-collapse: collapse;
+  border: 2px solid #CCFFFF;
+}
+.news{
+  background-color: #;
+}
+
+/*RESULT*/
+
+.result{
+  
 }
